@@ -53,7 +53,8 @@ for i in range(len(v600['q'])):
 
 Q           = np.sort(np.array(Q))
 
-
+# NOBODY WILL FIND THIS
+# https://youtu.be/xvFZjo5PgG0?si=rPNrVgbkxhdWwQi3
 print(Q)
 
 q1          = Q[0:6]
@@ -110,7 +111,8 @@ hran.append((np.min(q7)+np.max(q6))/2)
 hran.append((np.min(q8)+np.max(q7))/2)
 
 
-
+# For real this time (KEKW)
+# ayaya123
 
 
 vypQ        = [q1,q2,q3,q4,q5,q6,q7,q8]
