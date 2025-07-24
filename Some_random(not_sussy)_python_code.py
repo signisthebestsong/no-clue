@@ -110,7 +110,7 @@ hran.append((np.min(q8)+np.max(q7))/2)
 
 
 # For real this time (KEKW)
-# ayaya123
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
 vypQ        = [q1,q2,q3,q4,q5,q6,q7,q8]
